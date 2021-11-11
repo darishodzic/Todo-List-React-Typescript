@@ -39,5 +39,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/darishodzic/Todo-List-React-Typescript.git",
+  "author": "<daris.hodzic.dh@gmail.com>",
+  "license": "MIT"
 }
